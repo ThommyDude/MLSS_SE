@@ -10,8 +10,11 @@ It's 2020... I've been out of the programming world for a while, thought it'd be
 The reason the level field is marked as "approximatly" is due to it being based off the EXP needed for levels from the GBA version. I thought that would be enough but when both Mario and Luigi turned level 12 in-game and I tested my editor, it tells me Mario is still level 11. Turns out the numbers aren't the exact same, OR the tables online are just plain wrong. I am in no mood to try and figure out the real exp needed for every level because I don't have 900 hours to do so.
 
 # Check it out on the original page:
-This is a Web Version of the save editor for the game Mario &amp; Luigi SuperStar Saga for the Nintendo 3DS™ in Javascript.
-
 Repo: https://github.com/Cefo14/MLSS_SE/
 
 Editor: https://cefo14.github.io/MLSS_SE/
+
+## Or check it out on mine!
+Repo: You're here dummy!
+
+Editor: https://thommydude.github.io/MLSSSE/
